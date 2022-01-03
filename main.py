@@ -55,10 +55,9 @@ print(f"""
 
 """)
 
-id = input(Fore.MAGENTA+" root" + Fore.WHITE+"@" + Fore.MAGENTA+"Ttawi" + Fore.WHITE+":" + Fore.CYAN+"~" + Fore.WHITE+"dox" + Fore.WHITE+" ")
+id = " root" + Fore.WHITE+"@" + Fore.MAGENTA+"Ttawi" + Fore.WHITE+":" + Fore.CYAN+"~" + Fore.WHITE+"dox" + Fore.WHITE+" ")
 
-
-    check = int(670516736747110400)
+)
     print('')
     print(f'{Fore.MAGENTA} [{Fore.WHITE}+{Fore.MAGENTA}] Valid ID!')
     data = f'{id}'
